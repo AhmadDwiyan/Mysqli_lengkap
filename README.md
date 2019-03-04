@@ -1,6 +1,6 @@
 # Mysqli_lengkap
 Permisi pak ini tenggat ada kesalahan pada Komputer Saya
-
+![alt text](https://github.com/AhmadDwiyan/Mysqli_lengkap/blob/master/penjelasan.png)
 ![alt text](https://github.com/AhmadDwiyan/Mysqli_lengkap/blob/master/Tugas_konek.png)
 ![alt text](https://github.com/AhmadDwiyan/Mysqli_lengkap/blob/master/tugas_db.png)
 ![alt text](https://github.com/AhmadDwiyan/Mysqli_lengkap/blob/master/tugas_tabel.png)
